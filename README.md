@@ -105,7 +105,7 @@ The app uses a **TabView-based navigation**:
 1. Clone the repository
 
 ```bash id="cb3"
-git clone https://github.com/your-username/Cookbook-iOS.git
+git clone https://github.com/pranavpatel172000/Cookbook-iOS.git
 ```
 
 2. Open in Xcode
